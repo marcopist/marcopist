@@ -16,9 +16,9 @@ I focus on automating (or sometimes, semi-automating) real-time data ingestion f
 - Semantic data modelling;
 - In general, large systems; like train systems or computer clusters.
 
-## My skills
+## What I do for work
 
-Unfortunately most of the software I write is closed source and proprietary. On this Github youu'll only find half-started side projects, whose repos I created in a fluke of inspiration. However, this is what I normally do in my day job:
+This is what I normally do in my day job:
 
 - Write Python microservices, deploy them on a proprietary version of Kubernetes;
 - Set up the pipework for these microservices, allowing them to consume from and output to message queues similar to Apache Kafka;
